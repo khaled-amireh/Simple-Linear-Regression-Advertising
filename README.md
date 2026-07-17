@@ -62,15 +62,6 @@ After evaluating the three models, I found that:
 
 Based on these results, TV advertising is the strongest single feature for predicting sales using Simple Linear Regression.
 
-## Repository Structure
-
-```
-Machine-Learning-Projects/
-│
-├── Advertising.csv
-├── Simple_Linear_Regression_Project.ipynb
-└── README.md
-```
 
 ## Author
 
