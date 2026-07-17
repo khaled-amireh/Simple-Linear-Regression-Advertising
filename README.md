@@ -75,4 +75,3 @@ Machine-Learning-Projects/
 ## Author
 
 Khaled Amireh
-ِق
