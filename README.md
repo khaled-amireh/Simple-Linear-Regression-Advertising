@@ -38,19 +38,18 @@ Target:
 - Jupyter Notebook
 
 ## Project Workflow
-
-1. Load the dataset.
-2. Select the input feature.
-3. Split the dataset into training and testing sets.
-4. Train a Simple Linear Regression model.
+1. Load the dataset using Pandas.
+2. Select the input feature for single feature regression.
+3. Split the dataset into training and testing sets (`train_test_split`).
+4. Train a Simple Linear Regression model (`LinearRegression`).
 5. Predict the test set results.
-6. Visualize the regression line.
-7. Evaluate the model using:
-   - Mean Squared Error (MSE)
-   - Root Mean Squared Error (RMSE)
-   - R² Score
-8. Compare the performance of the three models using tables and bar charts.
-
+6. Visualize the regression line using Matplotlib.
+7. Evaluate model performance using:
+   - **Mean Squared Error (MSE)**
+   - **Root Mean Squared Error (RMSE)**
+   - **$R^2$ Score**
+8. Compare the performance of all three models using comparative tables and bar charts.
+   
 ## Results & Summary
 
 After evaluating the three models on the test dataset:
