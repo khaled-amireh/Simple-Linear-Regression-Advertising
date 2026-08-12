@@ -61,7 +61,6 @@ After evaluating the three models on the test dataset:
 ### Conclusion
 Based on the metrics, **TV advertising** is the strongest single feature for predicting sales when using Simple Linear Regression.
 
-
 ## Author
-
-Khaled Amireh
+**Khaled Amireh**  
+Artificial Intelligence Student
