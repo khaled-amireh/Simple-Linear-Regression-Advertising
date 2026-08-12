@@ -51,17 +51,16 @@ Target:
    - R² Score
 8. Compare the performance of the three models using tables and bar charts.
 
-## Results
- 
+## Results & Summary
 
-After evaluating the three models, I found that:
+After evaluating the three models on the test dataset:
 
-- The TV advertising model achieved the highest R² Score.
-- The TV advertising model produced the lowest MSE.
-- The TV advertising model produced the lowest RMSE.
-- The Newspaper advertising model showed the weakest performance.
+- The **TV advertising model** achieved the highest $R^2$ Score.
+- The **TV advertising model** produced the lowest MSE and RMSE.
+- The **Newspaper advertising model** showed the weakest performance among all three.
 
-Based on these results, TV advertising is the strongest single feature for predicting sales using Simple Linear Regression.
+### Conclusion
+Based on the metrics, **TV advertising** is the strongest single feature for predicting sales when using Simple Linear Regression.
 
 
 ## Author
