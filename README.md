@@ -1,4 +1,4 @@
-# Simple Linear Regression Using the Advertising Dataset
+# Advertising Sales Prediction
 
 ## About the Project
 
