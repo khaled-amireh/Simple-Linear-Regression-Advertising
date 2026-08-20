@@ -62,4 +62,3 @@ Based on the metrics, **TV advertising** is the strongest single feature for pre
 
 ## Author
 **Khaled Amireh**  
-Artificial Intelligence Student
