@@ -35,7 +35,6 @@ Target:
 - NumPy
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook
 
 ## Project Workflow
 1. Load the dataset using Pandas.
