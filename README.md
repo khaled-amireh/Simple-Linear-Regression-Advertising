@@ -1,7 +1,6 @@
 # Advertising Sales Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
 ## About the Project
 
 This project is part of my Machine Learning learning journey. I built three Simple Linear Regression models using Python and Scikit-learn to predict product sales based on different advertising channels.
